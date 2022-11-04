@@ -1,0 +1,80 @@
+//Practice Task 1  
+//Write your university card’s details in a text file using write system call. Now read the contents
+//of the file using read system call. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+//code.c
+
+#include<stdio.h>
+#include<unistd.h>
+#include<fcntl.h>
+
+int main(){
+int fd;
+char buffer[200];
+
+static char message[] = "Name = Rinad Anwar \n Father's name = M.Tayyeb Tahir \n Program = BSCS \n Reg.no = BSCS-20f-0012\n Issuedate = oct-2020\n validdate = dec-2024\n\n";
+fd = open("myfile.txt", O_RDWR);
+if(fd != -1)
+{
+printf("myfile opened for read/write access \n\n");
+write(fd, message, sizeof(message));
+lseek(fd, 0, 0);
+read(fd, buffer, sizeof(message));
+printf("\n %s was written to my file \n", buffer);
+close(fd);
+}
+else
+{
+printf(" Error in opening : myfile \n");
+}
+}
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+//2.cpp
+
+#include<stdio.h>
+#include<unistd.h>
+#include<fcntl.h>
+
+int main(){
+int fd;
+char buffer[500];
+
+static char message[] = "Name = Rinad Anwar \n Father's name = M.Tayyeb Tahir \n Program = BSCS \n Reg.no = BSCS-20f-0012\n Issuedate = oct-2020\n validdate = dec-2024\n\n";
+fd = open("myfile.txt", O_RDWR);
+if(fd != -1)
+{
+printf("myfile opened for read/write access \n\n");
+write(fd, message, sizeof(message));
+lseek(fd, 0, 0);
+read(fd, buffer, sizeof(message));
+printf(" %s was written to my file \n", buffer);
+close(fd);
+}
+else
+{
+printf(" Error in opening : myfile \n");
+}
+}
+
+
+-----------------------------------------------
+// terminal comands
+g++ -o SC_RW 2.cpp
+./SC_RW
+
+------------------------------------------------
+// output written in myfile.txt
+ Name = Rinad Anwar 
+ Father's name = M.Tayyeb Tahir 
+ Program = BSCS 
+ Reg.no = BSCS-20f-0012
+ Issuedate = oct-2020
+ validdate = dec-2024
+
+
+
+
+
+
+
