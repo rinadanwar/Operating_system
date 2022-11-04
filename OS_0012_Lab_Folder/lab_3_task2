@@ -5,7 +5,9 @@
 #include <stdlib.h>
 #include <unistd.h>
   
-// Driver code
+-------------------------------------------------
+// Driver code of code1.c file and 2.cpp file
+-------------------------------------------------
 int main()
 {
     int pid, pid1, pid2;
@@ -61,3 +63,16 @@ int main()
   
     return 0;
 }
+
+
+-----------------------------------
+//terminal commands in ubunto
+g++ -o SC_RW 2.cpp
+./SC_RW
+
+----------------------------------
+//output
+child[3] --> pid = 29204 and ppid = 29201
+child[2] --> pid = 29203 and ppid = 29201
+child[1] --> pid = 29202 and ppid = 29201
+parent --> pid = 29201
