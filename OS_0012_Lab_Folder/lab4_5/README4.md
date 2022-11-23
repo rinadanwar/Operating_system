@@ -31,15 +31,17 @@ LAB 4_5
 
    - output: 
    <img width="281" alt="5" src="https://user-images.githubusercontent.com/117267277/203563000-0003222e-f969-495e-b07f-83d19b9dbbb1.PNG">
+   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
----
+
 - Walkthrough
    - create a c file
    - write the following code in the c file
 
 <img width="647" alt="lab" src="https://user-images.githubusercontent.com/117267277/203563761-90e978fb-df13-4860-8525-4ba742957d5b.PNG">
 
- - output: 
+   - output: 
+<img width="282" alt="wt" src="https://user-images.githubusercontent.com/117267277/203568772-fc527ab3-0043-476f-a4b2-b158ec0a02c7.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
