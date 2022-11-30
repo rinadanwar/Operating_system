@@ -45,3 +45,18 @@ LAB 7
 
 
 Practice Task
+
+task 1
+input: 
+<img width="279" alt="t1" src="https://user-images.githubusercontent.com/117267277/204755027-7e56f6c7-4210-41e8-9b93-1e4dc4ea9683.PNG">
+
+task 2
+input:
+<img width="556" alt="t2in" src="https://user-images.githubusercontent.com/117267277/204756717-ca46dd49-0367-44bc-8f27-cf606bfc0631.PNG">
+<img width="265" alt="T2" src="https://user-images.githubusercontent.com/117267277/204755130-c6f8c194-c8fe-44ad-8c8c-8c4369c6bd2e.PNG">
+
+task 3
+input:
+<img width="634" alt="t3in" src="https://user-images.githubusercontent.com/117267277/204756835-75928217-d6e6-4580-b0a9-e05db6ac975b.PNG">
+<img width="310" alt="T3" src="https://user-images.githubusercontent.com/117267277/204755169-dce52fbc-7748-4f7f-812f-76056b736c69.PNG">
+
