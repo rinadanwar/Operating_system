@@ -54,7 +54,7 @@ same content in the new file and now save this file and display the content of
 LAB04_TWO on console screen. 
 
    - create a c file “Lab04_ONE”
-   - write the following come in the c file
+   - write the following code in the c file
 
 
 <img width="620" alt="l1" src="https://user-images.githubusercontent.com/117267277/203564848-eb419e5f-b5a3-4827-bc83-3ebeaf47fcc8.PNG">
