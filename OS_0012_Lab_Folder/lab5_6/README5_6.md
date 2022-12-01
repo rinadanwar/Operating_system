@@ -19,9 +19,9 @@ LAB 5/6 THREADS
   - create a c file named walkthru.c
   - write the following code in this c file
   
-  
-<img width="444" alt="walkthru" src="https://user-images.githubusercontent.com/117267277/203549717-92e0a10c-98f5-4e34-8211-3b5852999784.PNG">
+  <img width="515" alt="walkthu" src="https://user-images.githubusercontent.com/117267277/205013451-31567703-b31e-49a2-9baf-43d49c32384d.PNG">
 
+ 
 
 - The following output will be displayed
 
@@ -49,4 +49,9 @@ LAB 5/6 THREADS
  <img width="315" alt="l3a" src="https://user-images.githubusercontent.com/117267277/203550536-4f282463-d8fd-4934-a242-cc6ae7d944f2.PNG">
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+ - PRACTICE TASK 1b
+    - input .c file is shared in folder
+    - output
+   <img width="351" alt="p2" src="https://user-images.githubusercontent.com/117267277/205014096-b7f99cb1-2a7d-4c06-bfcd-6be69bb56f37.PNG">
+
+    
