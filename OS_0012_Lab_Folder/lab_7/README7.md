@@ -5,7 +5,6 @@ SHELL COMMANDS
 
   - TASK 1  
     - output
-  
 <img width="304" alt="1" src="https://user-images.githubusercontent.com/117267277/204750653-a7a7a329-9532-4e89-a2d5-11ea794e3303.PNG">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -62,19 +61,32 @@ SHELL COMMANDS
 
                                                                   Practice Task
 
-- Task 1
+- Task 1 Write a shell script that calculate electricity bill. The rates of electricity per unit are as
+follows:
+  - Consume-units>=300 then cost is Rs. 2 per unit
+  - Consume-units>300 and <=500 then cost is Rs. 5 per unit
+  - Consume-units>500 then cost is Rs. 7 per unit. 
+     - input shell file:
+<img width="674" alt="t1in" src="https://user-images.githubusercontent.com/117267277/205033661-521fc516-02e6-46ef-8e56-5b15ec72891e.PNG">
+
      - output: 
 <img width="279" alt="t1" src="https://user-images.githubusercontent.com/117267277/204755027-7e56f6c7-4210-41e8-9b93-1e4dc4ea9683.PNG">
 
-- Task 2
-  - input:
+
+
+- Task 2 Write a shell script that inputs Salary and Grade. It adds 50% bonus if the grade is greater
+than 15. It adds 25% bonus if the grade is 15 or less and then display the total salary. 
+
+  - input shell file:
 <img width="556" alt="t2in" src="https://user-images.githubusercontent.com/117267277/204756717-ca46dd49-0367-44bc-8f27-cf606bfc0631.PNG">
 
        - output
 <img width="265" alt="T2" src="https://user-images.githubusercontent.com/117267277/204755130-c6f8c194-c8fe-44ad-8c8c-8c4369c6bd2e.PNG">
 
-- Task 3
-  - input:
+
+
+- Task 3 Write a shell script that inputs three number and display the maximum number. 
+  - input shell file:
 <img width="634" alt="t3in" src="https://user-images.githubusercontent.com/117267277/204756835-75928217-d6e6-4580-b0a9-e05db6ac975b.PNG">
 
       - output
