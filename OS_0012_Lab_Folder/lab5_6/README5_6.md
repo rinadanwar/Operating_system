@@ -50,8 +50,12 @@ LAB 5/6 THREADS
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - PRACTICE TASK 1b
-    - input .c file is shared in folder
+ - Now create 4 separate threads and call each function in a different thread and display 
+the output to the user with information about the thread like which thread is calling which function
+
+    - input: "unseentask1.c" file is shared in folder
     - output
-   <img width="351" alt="p2" src="https://user-images.githubusercontent.com/117267277/205014096-b7f99cb1-2a7d-4c06-bfcd-6be69bb56f37.PNG">
+   
+<img width="346" alt="unseent1" src="https://user-images.githubusercontent.com/117267277/205025709-e5f46a2b-bc42-45af-9772-1317953e6d84.PNG">
 
     
