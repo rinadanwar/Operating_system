@@ -77,5 +77,10 @@ Practice Task 2
 <img width="352" alt="1" src="https://user-images.githubusercontent.com/117267277/203566942-a83daa2d-3556-4e7c-a59e-e158f8adcb04.PNG">
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+Unseen Task 1 and 2
+- input .c files shared in lab folder
+- output:
 
-
+<img width="337" alt="u12" src="https://user-images.githubusercontent.com/117267277/205009386-07f530db-3b05-41fc-bed7-730d7461ed5a.PNG">
