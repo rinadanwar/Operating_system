@@ -1,0 +1,8 @@
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int status;
+struct stat buffer
+...
+chmod("home/cnd/mod1", S_IRWXU|S_IRWXG|S_IROTH|S_IWOTH);
+status = stat("home/cnd/mod1", &buffer;);
